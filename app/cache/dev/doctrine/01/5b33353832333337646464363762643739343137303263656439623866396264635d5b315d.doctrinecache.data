@@ -1,0 +1,18 @@
+1614182403
+s:2682:"HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 24 Feb 2021 15:55:02 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2730.jn-hebergement.com
+
+{"modules":[{"id":"24637","name":"ps_cashondelivery","displayName":"Cash on delivery (COD)","categoryName":"TPV (POS)","description":"Acepta pagos en efectivo en el env&iacute;o para facilitar a los clientes la compra en tu tienda","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/es\/tpv-pos\/24637-cash-on-delivery-cod.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/24637.jpg","fullDescription":"Acepta pagos en efectivo en el env&iacute;o para facilitar a los clientes la compra en tu tienda.","additionalDescription":"Utiliza este m&oacute;dulo nativo para lo siguiente:\r\n<ul>\r\n\t<li><strong>Facilitar las compras:<\/strong> crea un entorno de compra flexible para tus clientes y haz que les entren ganas de volver a visitar tu tienda.<\/li>\r\n\t<li><strong>Permite a cualquiera comprar tus productos:<\/strong> aceptar pagos en efectivo contra reembolso ayuda a que los clientes que no dispongan de tarjeta de cr&eacute;dito puedan comprar tus art&iacute;culos.<\/li>\r\n<\/ul>\r\n","features":"No es necesario configurar este m&oacute;dulo: lo &uacute;nico que tienes que hacer es activarlo o desactivarlo; la modalidad de pago en cuesti&oacute;n se indica durante el proceso de compra.","customer_benefits":"","demo_video":"","version":"1.0.6","last_update":"2021-02-24 12:59:17","compatibility":{"from":"1.7.1.0","to":"1.7.7.2"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias1.prestastore.com\/1293813-pprod\/cash-on-delivery-cod.jpg","big":"https:\/\/medias1.prestastore.com\/1293813-pbig\/cash-on-delivery-cod.jpg"}}]}";
